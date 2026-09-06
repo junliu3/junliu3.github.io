@@ -1,12 +1,12 @@
-title: 杨喻城 | Yuchen Yang 的个人主页
-page-top-title: 杨喻城 Yuchen Yang
-top-section-bg-text: 嵌入式开发
+title: 杨喻城 | Yucheng Yang 的个人主页
+page-top-title: 杨喻城 Yucheng Yang
+top-section-bg-text: C/C++ 工程师
 backgrounds:
   - static/assets/background/background_0.jpeg
   - static/assets/background/background_1.jpeg
 background-interval-ms: 7000
 background-overlay: 0.52
-copyright-text: '&copy; 杨喻城 Yuchen Yang 2026. All Rights Reserved.'
+copyright-text: '&copy; 杨喻城 Yucheng Yang 2026. All Rights Reserved.'
 github-link:
   text: Github
   href: https://github.com/junliu3
@@ -16,15 +16,19 @@ license-link:
 sections:
   - id: home
     nav: HOME
-    title: 杨喻城&ensp;|&ensp;Yuchen Yang
+    title: 杨喻城&ensp;|&ensp;Yucheng Yang
     href: '#page-top' # Default to '#<id>' if not specified
   - id: skills
     nav: SKILLS
     title: 专业技能
     icon: bi-tools
+  - id: experience
+    nav: EXPERIENCE
+    title: 实习经验
+    icon: bi-briefcase-fill
   - id: projects
     nav: PROJECTS
-    title: 项目经历
+    title: 项目经验
     icon: bi-kanban-fill
   - id: education
     nav: EDUCATION
